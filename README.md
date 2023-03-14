@@ -2,7 +2,7 @@
 =
 一.安装VMware虚拟机
 =
-下载并安装VMware虚拟机软件并进行安装。[VMware官网](https://www.vmware.com/cn.html
+下载并安装VMware虚拟机软件并进行安装。[VMware官网](https://www.vmware.com/cn.html)
 
 二.安装Ununtu 18.04
 =
