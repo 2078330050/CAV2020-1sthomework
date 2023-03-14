@@ -2,11 +2,11 @@
 =
 一.安装VMware虚拟机
 =
-下载并安装VMware虚拟机软件并进行安装。
+下载并安装VMware虚拟机软件并进行安装。[VMware官网](https://www.vmware.com/cn.html
 
 二.安装Ununtu 18.04
 =
-1.下载Ubuntu 18.04的镜像文件，并保存到本地磁盘上。
+1.下载Ubuntu 18.04的镜像文件，并保存到本地磁盘上。[Ubuntu镜像下载](https://ubuntu.com/download/desktop)
 
 2.打开VMware虚拟机软件，点击“新建虚拟机”，选择“典型（推荐）”并点击“下一步”。
 
