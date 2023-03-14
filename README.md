@@ -87,4 +87,4 @@
 
 ！[Ubuntu 18.04安装结果](https://github.com/2078330050/CAV2020-1sthomework/blob/main/mmexport1678771452638.png?raw=true)
 
-！[ROS1安装结果](https://github.com/2078330050/CAV2020-1sthomework/blob/main/mmexport1678771454568.png?raw=true)
+！[ROS1安装结果](https://github.com/2078330050/CAV2020-1sthomework/blob/main/xiaowugui.png?raw=true)
