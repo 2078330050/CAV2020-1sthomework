@@ -70,7 +70,17 @@
 
 ```catkin_make```
 
-四.结果
+四.检查ROS安装情况
+=
+运行小海龟
+
+```roscore```
+
+```rosrun turtlesim turtlesim_node```
+
+```rosrun turtlesim turtle_teleop_key```
+
+五.结果
 =
 ！[VMware安装结果](https://github.com/2078330050/CAV2020-1sthomework/blob/main/mmexport1678771450632.png?raw=true)
 
