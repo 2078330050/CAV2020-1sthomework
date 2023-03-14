@@ -67,6 +67,7 @@
 ```cd ~/catkin_ws/```
 
 ```catkin_make```
+
 四.结果
 =
 ！[VMware安装结果]()
