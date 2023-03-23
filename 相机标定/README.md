@@ -17,7 +17,7 @@
 
 4、打印棋盘格
 --
-[A4-7x5-26棋盘格](https://)
+[A4-7x5-26棋盘格](https://github.com/2078330050/CAV2020-1sthomework/blob/main/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/calib.io_checker_210x297_6x4_26.pdf)
 
 二、开始标定
 =
