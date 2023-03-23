@@ -30,6 +30,8 @@
 --
 ```rosrun camera_calibration cameracalibrator.py --size 4x6 --square 0.026 image:=/usb_cam/image_raw camera:=/usb_cam```
 
+![标定](https://github.com/2078330050/CAV2020-1sthomework/blob/main/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/%E6%A0%87%E5%AE%9A.png)
+
 X：表示标定板在视野中的左右位置
 
 Y：表示标定板在视野中的上下位置
