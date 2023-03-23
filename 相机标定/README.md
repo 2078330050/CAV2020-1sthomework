@@ -9,7 +9,7 @@
 --
 ```roslaunch usb_cam usb_cam-test.launch```
 
-出现图像![启动camera](https://)
+出现图像![启动camera](https://github.com/2078330050/CAV2020-1sthomework/blob/main/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/%E5%90%AF%E5%8A%A8camera.png?raw=true)
 
 3、配置ROS的相机标定包
 --
@@ -46,3 +46,5 @@ Skew：表示标定板在视野中的倾斜角度
 
 三、标定结果
 =
+[ost.txt](https://github.com/2078330050/CAV2020-1sthomework/blob/main/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/ost.txt)
+[ost.yaml](https://github.com/2078330050/CAV2020-1sthomework/blob/main/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/ost.yaml)
